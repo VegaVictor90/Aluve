@@ -190,6 +190,7 @@ footer p{
     .menu_oculto{
         position: absolute;
         margin-left: 90%;
+        margin-bottom: 90%;
         color: #ffffff;
         font-size: 30px;
         z-index: 10;
@@ -198,7 +199,7 @@ footer p{
         display: none;
     }
     .sub_container1{
-        justify-content: space-around;
+        justify-content: center;
     }
     .sub_container2{
         justify-content: space-around;

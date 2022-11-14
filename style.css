@@ -184,7 +184,6 @@ footer p{
 
 @media (max-width: 950px){
     .container{
-        background-image: url(./Fondo_movil.jpg);
         background-attachment: scroll;
     }
     .menu_oculto{

@@ -185,6 +185,7 @@ footer p{
 @media (max-width: 950px){
     .container{
         background-attachment: scroll;
+        height: auto;
     }
     .menu_oculto{
         position: absolute;
@@ -198,16 +199,17 @@ footer p{
         display: none;
     }
     .sub_container1{
-        justify-content: space-evenly;
+        justify-content: space-around;
     }
     .sub_container2{
-        justify-content: space-evenly;
+        justify-content: space-around;
     }
     .datos{
         width: 90%;
         margin-bottom: 30px;
         display: flex;
         flex-wrap: wrap;
+        height: auto;
     }
     footer{
         background-color: #3d3d3d;

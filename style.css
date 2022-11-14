@@ -226,6 +226,9 @@ footer p{
     .sub_container1 h2{
         margin-top: 20px;
     }
+    .sub_container1 h1{
+        font-size: 20px;
+    }
 
     
 }

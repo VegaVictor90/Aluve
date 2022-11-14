@@ -197,9 +197,17 @@ footer p{
     .menu_items{
         display: none;
     }
+    .sub_container1{
+        justify-content: space-evenly;
+    }
+    .sub_container2{
+        justify-content: space-evenly;
+    }
     .datos{
         width: 90%;
         margin-bottom: 30px;
+        display: flex;
+        flex-wrap: wrap;
     }
     footer{
         background-color: #3d3d3d;

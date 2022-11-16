@@ -193,7 +193,7 @@ footer p{
     .container{
         background-image: url(./Optio-movil.jpg);
         background-attachment: scroll;
-        background-position: center;
+        
         background-size: cover;
         height: auto;
     }
